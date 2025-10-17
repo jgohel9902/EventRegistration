@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MidTerm8911139</string>
+
+    <!-- Titles -->
+    <string name="title_event_registration">Event Registration</string>
+    <string name="title_event_summary">Event Order Summary</string>
+
+    <!-- Fields -->
+    <string name="hint_event_name">Event Name</string>
+    <string name="hint_organizer_name">Organizer Name</string>
+    <string name="hint_event_location">Event Location</string>
+
+    <!-- Event Types -->
+    <string name="event_type">Event Type</string>
+    <string name="type_conference">Conference</string>
+    <string name="type_wedding">Wedding</string>
+    <string name="type_concert">Concert</string>
+
+    <!-- Services -->
+    <string name="additional_services">Additional Services</string>
+    <string name="service_catering">Catering</string>
+    <string name="service_photography">Photography</string>
+    <string name="service_music">Music</string>
+    <string name="service_decoration">Decoration</string>
+
+    <!-- Buttons -->
+    <string name="btn_register">Register</string>
+    <string name="btn_back">Back</string>
+
+    <!-- Toasts / validation -->
+    <string name="toast_success">Event Registration Successful</string>
+    <string name="error_event_name_required">Event name is required</string>
+    <string name="error_organizer_required">Organizer name is required</string>
+    <string name="error_location_required">Event location is required</string>
+    <string name="error_event_type_required">Please select an event type</string>
+</resources>

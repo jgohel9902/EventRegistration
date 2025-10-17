@@ -1,0 +1,41 @@
+<resources>
+    <!-- Light -->
+    <color name="md_theme_light_primary">#3F5AA9</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#DCE1FF</color>
+    <color name="md_theme_light_onPrimaryContainer">#00174A</color>
+    <color name="md_theme_light_secondary">#575E71</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#DBE2F9</color>
+    <color name="md_theme_light_onSecondaryContainer">#141B2C</color>
+    <color name="md_theme_light_tertiary">#745B85</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#FDD6FF</color>
+    <color name="md_theme_light_onTertiaryContainer">#2B1236</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_background">#FEFBFF</color>
+    <color name="md_theme_light_onBackground">#1B1B1F</color>
+    <color name="md_theme_light_surface">#FEFBFF</color>
+    <color name="md_theme_light_onSurface">#1B1B1F</color>
+
+    <!-- Dark -->
+    <color name="md_theme_dark_primary">#B5C3FF</color>
+    <color name="md_theme_dark_onPrimary">#0A2878</color>
+    <color name="md_theme_dark_primaryContainer">#274090</color>
+    <color name="md_theme_dark_onPrimaryContainer">#DCE1FF</color>
+    <color name="md_theme_dark_secondary">#BFC6DC</color>
+    <color name="md_theme_dark_onSecondary">#293042</color>
+    <color name="md_theme_dark_secondaryContainer">#40475A</color>
+    <color name="md_theme_dark_onSecondaryContainer">#DBE2F9</color>
+    <color name="md_theme_dark_tertiary">#E2B9EE</color>
+    <color name="md_theme_dark_onTertiary">#41274C</color>
+    <color name="md_theme_dark_tertiaryContainer">#5A3F64</color>
+    <color name="md_theme_dark_onTertiaryContainer">#FDD6FF</color>
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    <color name="md_theme_dark_background">#1B1B1F</color>
+    <color name="md_theme_dark_onBackground">#E4E2E6</color>
+    <color name="md_theme_dark_surface">#1B1B1F</color>
+    <color name="md_theme_dark_onSurface">#E4E2E6</color>
+</resources>
